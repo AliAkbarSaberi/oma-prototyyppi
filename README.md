@@ -27,10 +27,6 @@ Ylävalikko linkkeineen.
 
 Avaa index.html selaimessa tai käynnistä paikallinen palvelin:
 
-```bash
-cd /Users/s2500279/oma prototyyppi
-python3 -m http.server 8000
-```
 
 Sitten avaa http://localhost:8000/index.html
 
