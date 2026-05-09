@@ -43,12 +43,3 @@ Prototyyppi perustuu workshopin ideoihin: yhteisöjen ja tapahtumien löytämine
  - Mobile-first responsiivisuus
  - Yksinkertainen suodatus kategorioissa
 
-## GitHub-poisto
-
-Jos haluat poistaa tämän repositorion GitHubista, voit tehdä sen joko GitHubin verkkokäyttöliittymästä (Settings -> Danger Zone -> Delete this repository) tai `gh`-CLI:llä:
-
-```bash
-gh repo delete AliAkbarSaberi/oma-prototyyppi --confirm
-```
-
-HUOM: Poisto vaatii, että olet kirjautunut `gh`-CLI:hin ja sinulla on tarvittavat oikeudet. Halutessasi voin yrittää poistaa reposi puolestasi tässä ympäristössä, mutta tarvitsen luvan käyttää `gh`-CLI:tä.
